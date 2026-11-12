@@ -1,0 +1,4 @@
+{ "name": "Alice",
+    "amount": 10,
+    "receiver": "Bob"
+}
