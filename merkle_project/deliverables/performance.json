@@ -1,0 +1,26 @@
+[
+  {
+    "leaves": 8,
+    "root": "d9ad96f0e758e070c13b070df6952deb371e928eec7e905301316cd52e9a17da",
+    "construction_ms_median": 0.031,
+    "proof_generation_ms": 0.033,
+    "proof_hashes": 3,
+    "proof_json_bytes": 315
+  },
+  {
+    "leaves": 1024,
+    "root": "d80206722fd0785a95660c910e5beb02fca1d7011abfecc9409c9a151586f8e9",
+    "construction_ms_median": 1.801,
+    "proof_generation_ms": 1.774,
+    "proof_hashes": 10,
+    "proof_json_bytes": 957
+  },
+  {
+    "leaves": 100000,
+    "root": "988d5b01a4256f07e5cb276d533e913f12d4a1dfad14ec1ebc33c6fdf2be9ec7",
+    "construction_ms_median": 217.238,
+    "proof_generation_ms": 511.447,
+    "proof_hashes": 17,
+    "proof_json_bytes": 1593
+  }
+]
