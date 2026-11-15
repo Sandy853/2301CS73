@@ -1,0 +1,26 @@
+[
+  {
+    "case": "Alice pays Bob 85, fee 2, change 23",
+    "status": "ACCEPTED",
+    "txid": "0ac55242af30c5e8cf0696b9e1bdc0f8b2f7edfccb179f1195872963277a67c8",
+    "fee": 2
+  },
+  {
+    "case": "replay same signed transaction",
+    "status": "REJECTED",
+    "reason": "nonexistent or already spent input: d71572b5f1efb3a01a594a9c95d6374a7b6f372c6723107033d123da4356daf4:0",
+    "state_unchanged": true
+  },
+  {
+    "case": "nonexistent input",
+    "status": "REJECTED",
+    "reason": "nonexistent or already spent input: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff:0",
+    "state_unchanged": true
+  },
+  {
+    "case": "bad signature",
+    "status": "REJECTED",
+    "reason": "bad signature: 0ac55242af30c5e8cf0696b9e1bdc0f8b2f7edfccb179f1195872963277a67c8:0",
+    "state_unchanged": true
+  }
+]
