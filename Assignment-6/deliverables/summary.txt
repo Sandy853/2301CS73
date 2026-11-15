@@ -1,0 +1,8 @@
+P2P MEMPOOL AND BLOCK RELAY EXPERIMENT
+Converged: True
+Stale transaction reconsidered: True
+N0: height=2 work=512 tip=00e0815ded45fb5f mempool=1
+N1: height=2 work=512 tip=00e0815ded45fb5f mempool=1
+N2: height=2 work=512 tip=00e0815ded45fb5f mempool=1
+N3: height=2 work=512 tip=00e0815ded45fb5f mempool=1
+N4: height=2 work=512 tip=00e0815ded45fb5f mempool=1

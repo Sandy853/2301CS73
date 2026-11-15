@@ -1,0 +1,19 @@
+{"event": "start", "node_id": "N3", "object_id": null, "peer_id": null, "port": 19003, "timestamp": 1794765797.4429767}
+{"event": "handshake", "node_id": "N3", "object_id": null, "peer_id": "N0", "timestamp": 1794765797.528894}
+{"event": "handshake", "node_id": "N3", "object_id": null, "peer_id": "N1", "timestamp": 1794765797.530836}
+{"event": "handshake", "node_id": "N3", "object_id": null, "peer_id": "N2", "timestamp": 1794765797.5326324}
+{"event": "partition", "group": "B", "node_id": "N3", "object_id": null, "peer_id": null, "timestamp": 1794765797.9538682}
+{"event": "request", "kind": "tx", "node_id": "N3", "object_id": "a470245acd9f0b8e9471ffe5b30159742c823ecbc7e7b446e8b7f1f388e3caf4", "peer_id": "N2", "timestamp": 1794765798.0380967}
+{"event": "tx_accepted", "node_id": "N3", "object_id": "a470245acd9f0b8e9471ffe5b30159742c823ecbc7e7b446e8b7f1f388e3caf4", "peer_id": "N2", "timestamp": 1794765798.0644534}
+{"event": "request", "kind": "block", "node_id": "N3", "object_id": "0041dd7dd19f5042785f7c274bb0e01b4f2f0fa77c182fae917073d9655f26c2", "peer_id": "N2", "timestamp": 1794765798.1868503}
+{"cumulative_work": 256, "event": "block_accepted", "height": 1, "node_id": "N3", "object_id": "0041dd7dd19f5042785f7c274bb0e01b4f2f0fa77c182fae917073d9655f26c2", "peer_id": "N2", "timestamp": 1794765798.220968}
+{"event": "tip", "height": 1, "node_id": "N3", "object_id": "0041dd7dd19f5042785f7c274bb0e01b4f2f0fa77c182fae917073d9655f26c2", "peer_id": "N2", "timestamp": 1794765798.222665}
+{"cumulative_work": 512, "event": "block_accepted", "height": 2, "node_id": "N3", "object_id": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed", "peer_id": null, "timestamp": 1794765798.2471848}
+{"event": "tip", "height": 2, "node_id": "N3", "object_id": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed", "peer_id": null, "timestamp": 1794765798.247777}
+{"event": "mined", "height": 2, "node_id": "N3", "object_id": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed", "peer_id": null, "timestamp": 1794765798.2483702, "tx_count": 0}
+{"event": "healed", "node_id": "N3", "object_id": null, "peer_id": null, "timestamp": 1794765798.3620653}
+{"event": "request", "kind": "block", "node_id": "N3", "object_id": "00bde5bfa63b8c69bdfe837a2386353b0d54127aec85569ad725cdde8059de92", "peer_id": "N0", "timestamp": 1794765798.8694377}
+{"cumulative_work": 256, "event": "block_accepted", "height": 1, "node_id": "N3", "object_id": "00bde5bfa63b8c69bdfe837a2386353b0d54127aec85569ad725cdde8059de92", "peer_id": "N0", "timestamp": 1794765798.898368}
+{"event": "request", "kind": "tx", "node_id": "N3", "object_id": "fabd2991cf0b7c69892e6a513769c8eb65cbe49701297fbdbcf3772d4423e6c6", "peer_id": "N0", "timestamp": 1794765799.3780446}
+{"event": "tx_accepted", "node_id": "N3", "object_id": "fabd2991cf0b7c69892e6a513769c8eb65cbe49701297fbdbcf3772d4423e6c6", "peer_id": "N0", "timestamp": 1794765799.4048574}
+{"event": "converged", "node_id": "N3", "object_id": null, "peer_id": null, "restored_stale_tx": true, "timestamp": 1794765799.48034, "tip": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed"}

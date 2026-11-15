@@ -1,0 +1,124 @@
+{
+  "experiment": "five-node partition/reorg",
+  "converged": true,
+  "stale_transaction_restored_on_all_nodes": true,
+  "stale_transaction_id": "fabd2991cf0b7c69892e6a513769c8eb65cbe49701297fbdbcf3772d4423e6c6",
+  "winning_transaction_id": "a470245acd9f0b8e9471ffe5b30159742c823ecbc7e7b446e8b7f1f388e3caf4",
+  "nodes": [
+    {
+      "node_id": "N0",
+      "tip": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed",
+      "height": 2,
+      "cumulative_work": 512,
+      "mempool": [
+        "fabd2991cf0b7c69892e6a513769c8eb65cbe49701297fbdbcf3772d4423e6c6"
+      ],
+      "balances": {
+        "alice": 100,
+        "bob": 104,
+        "carol": 93,
+        "N2": 53,
+        "N3": 50
+      },
+      "peers": [
+        "N1",
+        "N2",
+        "N3",
+        "N4"
+      ],
+      "peer_scores": {}
+    },
+    {
+      "node_id": "N1",
+      "tip": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed",
+      "height": 2,
+      "cumulative_work": 512,
+      "mempool": [
+        "fabd2991cf0b7c69892e6a513769c8eb65cbe49701297fbdbcf3772d4423e6c6"
+      ],
+      "balances": {
+        "alice": 100,
+        "bob": 104,
+        "carol": 93,
+        "N2": 53,
+        "N3": 50
+      },
+      "peers": [
+        "N0",
+        "N2",
+        "N3",
+        "N4"
+      ],
+      "peer_scores": {}
+    },
+    {
+      "node_id": "N2",
+      "tip": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed",
+      "height": 2,
+      "cumulative_work": 512,
+      "mempool": [
+        "fabd2991cf0b7c69892e6a513769c8eb65cbe49701297fbdbcf3772d4423e6c6"
+      ],
+      "balances": {
+        "alice": 100,
+        "bob": 104,
+        "carol": 93,
+        "N2": 53,
+        "N3": 50
+      },
+      "peers": [
+        "N0",
+        "N1",
+        "N3",
+        "N4"
+      ],
+      "peer_scores": {}
+    },
+    {
+      "node_id": "N3",
+      "tip": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed",
+      "height": 2,
+      "cumulative_work": 512,
+      "mempool": [
+        "fabd2991cf0b7c69892e6a513769c8eb65cbe49701297fbdbcf3772d4423e6c6"
+      ],
+      "balances": {
+        "alice": 100,
+        "bob": 104,
+        "carol": 93,
+        "N2": 53,
+        "N3": 50
+      },
+      "peers": [
+        "N0",
+        "N1",
+        "N2",
+        "N4"
+      ],
+      "peer_scores": {}
+    },
+    {
+      "node_id": "N4",
+      "tip": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed",
+      "height": 2,
+      "cumulative_work": 512,
+      "mempool": [
+        "fabd2991cf0b7c69892e6a513769c8eb65cbe49701297fbdbcf3772d4423e6c6"
+      ],
+      "balances": {
+        "alice": 100,
+        "bob": 104,
+        "carol": 93,
+        "N2": 53,
+        "N3": 50
+      },
+      "peers": [
+        "N0",
+        "N1",
+        "N2",
+        "N3"
+      ],
+      "peer_scores": {}
+    }
+  ]
+}

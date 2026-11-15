@@ -1,0 +1,14 @@
+{"event": "start", "node_id": "N0", "object_id": null, "peer_id": null, "port": 19000, "timestamp": 1794765797.4406843}
+{"event": "partition", "group": "A", "node_id": "N0", "object_id": null, "peer_id": null, "timestamp": 1794765797.951246}
+{"cumulative_work": 256, "event": "block_accepted", "height": 1, "node_id": "N0", "object_id": "00bde5bfa63b8c69bdfe837a2386353b0d54127aec85569ad725cdde8059de92", "peer_id": null, "timestamp": 1794765798.097589}
+{"event": "tip", "height": 1, "node_id": "N0", "object_id": "00bde5bfa63b8c69bdfe837a2386353b0d54127aec85569ad725cdde8059de92", "peer_id": null, "timestamp": 1794765798.098345}
+{"event": "mined", "height": 1, "node_id": "N0", "object_id": "00bde5bfa63b8c69bdfe837a2386353b0d54127aec85569ad725cdde8059de92", "peer_id": null, "timestamp": 1794765798.0989115, "tx_count": 1}
+{"event": "healed", "node_id": "N0", "object_id": null, "peer_id": null, "timestamp": 1794765798.3595135}
+{"event": "request", "kind": "block", "node_id": "N0", "object_id": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed", "peer_id": "N3", "timestamp": 1794765798.4127514}
+{"event": "orphan", "node_id": "N0", "object_id": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed", "parent": "0041dd7dd19f5042785f7c274bb0e01b4f2f0fa77c182fae917073d9655f26c2", "peer_id": "N3", "timestamp": 1794765798.4376564}
+{"cumulative_work": 256, "event": "block_accepted", "height": 1, "node_id": "N0", "object_id": "0041dd7dd19f5042785f7c274bb0e01b4f2f0fa77c182fae917073d9655f26c2", "peer_id": "N3", "timestamp": 1794765798.502768}
+{"event": "request", "kind": "block", "node_id": "N0", "object_id": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed", "peer_id": "N2", "timestamp": 1794765799.0214236}
+{"cumulative_work": 512, "event": "block_accepted", "height": 2, "node_id": "N0", "object_id": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed", "peer_id": "N2", "timestamp": 1794765799.0487907}
+{"event": "reorg", "new_tip": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed", "node_id": "N0", "object_id": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed", "old_tip": "00bde5bfa63b8c69bdfe837a2386353b0d54127aec85569ad725cdde8059de92", "peer_id": "N2", "restored_txs": 1, "timestamp": 1794765799.0497777}
+{"event": "tip", "height": 2, "node_id": "N0", "object_id": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed", "peer_id": "N2", "timestamp": 1794765799.0507433}
+{"event": "converged", "node_id": "N0", "object_id": null, "peer_id": null, "restored_stale_tx": true, "timestamp": 1794765799.477737, "tip": "00e0815ded45fb5f08cd3a68424a901f7e624af4676b1450fb2f00fec787ceed"}
