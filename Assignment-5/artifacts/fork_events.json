@@ -1,0 +1,26 @@
+[
+  {
+    "tip": "008c28494121cd14f2ecc1a8b16b52365677ce545bea079f260e559e0bd660f7",
+    "type": "extend"
+  },
+  {
+    "tip": "02a7eaa30f571472923d92d7fe40ee08a50cd3f9743bfc40f8f3eb7f454e0fbd",
+    "type": "extend"
+  },
+  {
+    "tip": "078374fd66a902751beded3a41b09d09f3552ed7cb96ff66cbbc8bf83ed271bd",
+    "type": "extend"
+  },
+  {
+    "connect": [
+      "0083e954bd92d88f471f3f5ee1ebb6717fa077c42621844696b7fbfae6c225c5"
+    ],
+    "disconnect": [
+      "02a7eaa30f571472923d92d7fe40ee08a50cd3f9743bfc40f8f3eb7f454e0fbd",
+      "078374fd66a902751beded3a41b09d09f3552ed7cb96ff66cbbc8bf83ed271bd"
+    ],
+    "new_tip": "0083e954bd92d88f471f3f5ee1ebb6717fa077c42621844696b7fbfae6c225c5",
+    "old_tip": "078374fd66a902751beded3a41b09d09f3552ed7cb96ff66cbbc8bf83ed271bd",
+    "type": "reorg"
+  }
+]

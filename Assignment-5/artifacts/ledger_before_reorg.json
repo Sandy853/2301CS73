@@ -1,0 +1,28 @@
+{
+  "active_chain": [
+    "008c28494121cd14f2ecc1a8b16b52365677ce545bea079f260e559e0bd660f7",
+    "02a7eaa30f571472923d92d7fe40ee08a50cd3f9743bfc40f8f3eb7f454e0fbd",
+    "078374fd66a902751beded3a41b09d09f3552ed7cb96ff66cbbc8bf83ed271bd"
+  ],
+  "cumulative_work": 96,
+  "height": 2,
+  "tip": "078374fd66a902751beded3a41b09d09f3552ed7cb96ff66cbbc8bf83ed271bd",
+  "utxos": {
+    "4d5553d5c5ad93baabe737d179ac9502c82203f309ab3b59ac0a3c857ba7a07d:0": {
+      "owner": "50c1f9647839d6752a82b86f97f21d41018fe7a1f544d707d6940eb2f2991d95",
+      "value": 52
+    },
+    "c0b66f9e8b4e127c93fc7a863df839f9861d375b9f4d3901b0ce36b0a317620e:0": {
+      "owner": "50c1f9647839d6752a82b86f97f21d41018fe7a1f544d707d6940eb2f2991d95",
+      "value": 50
+    },
+    "f9dec83e1f9c467eb688802777ffcc59605a38cdebfca84892a441a13487be8a:0": {
+      "owner": "ce3b61675218ff35a163d62387416ac2d7518dd08977cb3b3fc9eb7813e40673",
+      "value": 30
+    },
+    "f9dec83e1f9c467eb688802777ffcc59605a38cdebfca84892a441a13487be8a:1": {
+      "owner": "5a17f94d521aedb1285204433cd93fca51650ce46e93fa2384c7f109614aae8f",
+      "value": 18
+    }
+  }
+}

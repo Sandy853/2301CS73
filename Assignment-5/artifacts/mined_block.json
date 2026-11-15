@@ -1,0 +1,32 @@
+{
+  "block": {
+    "hash": "00292669a8138ef9792ba06903e215acb9afe4472cbe2f52c07265a526f294eb",
+    "header": {
+      "merkle_root": "633f94fd7e0e7495b01fdf83bc7b82de649bb2179436a55818c21ff125a6badd",
+      "nonce": 12,
+      "previous": "0000000000000000000000000000000000000000000000000000000000000000",
+      "target": 452312848583266388373324160190187140051835877600158453279131187530910662655,
+      "timestamp": 1794763961,
+      "version": 1
+    },
+    "transactions": [
+      {
+        "height": 0,
+        "kind": "coinbase",
+        "outputs": [
+          {
+            "owner": "033cf8eb6c758c88522d297f34a83cae62182c8d6d4d75bca69ffa5144949977",
+            "value": 50
+          }
+        ],
+        "tag": "cli-miner"
+      }
+    ]
+  },
+  "stats": {
+    "attempts": 13,
+    "expected_attempts": 256.0,
+    "hashes_per_second": 256916.22193386895,
+    "seconds": 5.060015246272087e-05
+  }
+}

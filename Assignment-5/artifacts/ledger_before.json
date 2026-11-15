@@ -1,0 +1,14 @@
+{
+  "active_chain": [
+    "008c28494121cd14f2ecc1a8b16b52365677ce545bea079f260e559e0bd660f7"
+  ],
+  "cumulative_work": 32,
+  "height": 0,
+  "tip": "008c28494121cd14f2ecc1a8b16b52365677ce545bea079f260e559e0bd660f7",
+  "utxos": {
+    "7aa3c8138fc35c228c5c9622e9914c5e3a1224fc419a7bd9803e4c338124d29f:0": {
+      "owner": "5a17f94d521aedb1285204433cd93fca51650ce46e93fa2384c7f109614aae8f",
+      "value": 50
+    }
+  }
+}

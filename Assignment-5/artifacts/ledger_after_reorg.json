@@ -1,0 +1,19 @@
+{
+  "active_chain": [
+    "008c28494121cd14f2ecc1a8b16b52365677ce545bea079f260e559e0bd660f7",
+    "0083e954bd92d88f471f3f5ee1ebb6717fa077c42621844696b7fbfae6c225c5"
+  ],
+  "cumulative_work": 288,
+  "height": 1,
+  "tip": "0083e954bd92d88f471f3f5ee1ebb6717fa077c42621844696b7fbfae6c225c5",
+  "utxos": {
+    "537b2c240e2d363f874c037a41838cf7fb3b50b43cf86ab430e41c4e7a739d2e:0": {
+      "owner": "50c1f9647839d6752a82b86f97f21d41018fe7a1f544d707d6940eb2f2991d95",
+      "value": 55
+    },
+    "63b0c9df069d87007277a6381adc158ed8311270ee93f77249d7d7dcd8bda52d:0": {
+      "owner": "5a17f94d521aedb1285204433cd93fca51650ce46e93fa2384c7f109614aae8f",
+      "value": 45
+    }
+  }
+}

@@ -1,0 +1,63 @@
+[
+  {
+    "active": true,
+    "cumulative_work": 32,
+    "fees": 0,
+    "hash": "008c28494121cd14f2ecc1a8b16b52365677ce545bea079f260e559e0bd660f7",
+    "height": 0,
+    "name": "genesis",
+    "status": "accepted"
+  },
+  {
+    "active": true,
+    "cumulative_work": 64,
+    "fees": 2,
+    "hash": "02a7eaa30f571472923d92d7fe40ee08a50cd3f9743bfc40f8f3eb7f454e0fbd",
+    "height": 1,
+    "name": "miner A: low-work block 1",
+    "status": "accepted"
+  },
+  {
+    "active": true,
+    "cumulative_work": 96,
+    "fees": 0,
+    "hash": "078374fd66a902751beded3a41b09d09f3552ed7cb96ff66cbbc8bf83ed271bd",
+    "height": 2,
+    "name": "miner A: low-work block 2",
+    "status": "accepted"
+  },
+  {
+    "active": true,
+    "cumulative_work": 288,
+    "fees": 5,
+    "hash": "0083e954bd92d88f471f3f5ee1ebb6717fa077c42621844696b7fbfae6c225c5",
+    "height": 1,
+    "name": "miner B: shorter higher-work fork",
+    "status": "accepted"
+  },
+  {
+    "name": "duplicate block",
+    "reason": "duplicate block",
+    "status": "rejected"
+  },
+  {
+    "name": "incorrect Merkle root",
+    "reason": "incorrect Merkle root",
+    "status": "rejected"
+  },
+  {
+    "name": "excess coinbase",
+    "reason": "excess coinbase value",
+    "status": "rejected"
+  },
+  {
+    "name": "invalid transaction",
+    "reason": "missing or already spent input: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff:0",
+    "status": "rejected"
+  },
+  {
+    "name": "invalid proof of work",
+    "reason": "invalid proof of work",
+    "status": "rejected"
+  }
+]

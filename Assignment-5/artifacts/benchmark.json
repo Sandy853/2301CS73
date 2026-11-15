@@ -1,0 +1,152 @@
+[
+  {
+    "attempts": 42,
+    "expected_attempts": 16.0,
+    "hash": "0cf776694b7b709fc602ab33b12bb30a2c4b423e83285e56c0d973ea0286fdf3",
+    "hashes_per_second": 310421.3261746075,
+    "seconds": 0.00013529998250305653,
+    "target_bits": 4,
+    "target_hex": "0fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "trial": 1
+  },
+  {
+    "attempts": 37,
+    "expected_attempts": 16.0,
+    "hash": "0a6dda5a7b72f33cf180c39416ccbe2eec99f9ed2eeb5c66c8108439d80c7e5c",
+    "hashes_per_second": 431235.65825436625,
+    "seconds": 8.579995483160019e-05,
+    "target_bits": 4,
+    "target_hex": "0fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "trial": 2
+  },
+  {
+    "attempts": 28,
+    "expected_attempts": 16.0,
+    "hash": "05dcc0b5c6d56be214b4b81d39cce43b12b6251035e1f4444c232da56940d6fc",
+    "hashes_per_second": 441640.25944818417,
+    "seconds": 6.340001709759235e-05,
+    "target_bits": 4,
+    "target_hex": "0fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "trial": 3
+  },
+  {
+    "attempts": 3,
+    "expected_attempts": 16.0,
+    "hash": "0871dccf455ca0cbfc69d57e261a13be23cba5fd6af1e54d36f5bd24cdf8605a",
+    "hashes_per_second": 410962.328580997,
+    "seconds": 7.2999391704797745e-06,
+    "target_bits": 4,
+    "target_hex": "0fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "trial": 4
+  },
+  {
+    "attempts": 2,
+    "expected_attempts": 16.0,
+    "hash": "02f6d745b9c4537801ae3054e4510cb167a42b8ed96c31fe27c3537c27cdfe28",
+    "hashes_per_second": 399996.954225844,
+    "seconds": 5.00003807246685e-06,
+    "target_bits": 4,
+    "target_hex": "0fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "trial": 5
+  },
+  {
+    "attempts": 102,
+    "expected_attempts": 64.0,
+    "hash": "00c9cc3dbbab927be520f578ac281691a01126437cb4138a7c61e66048ce2913",
+    "hashes_per_second": 450729.1665855583,
+    "seconds": 0.00022629997693002224,
+    "target_bits": 6,
+    "target_hex": "03ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "trial": 1
+  },
+  {
+    "attempts": 29,
+    "expected_attempts": 64.0,
+    "hash": "003e4f9a5af0d38b8d42f2b1ffeec3faff2885eeb21ebe27dbf72321c42cc372",
+    "hashes_per_second": 448223.1851563962,
+    "seconds": 6.469991058111191e-05,
+    "target_bits": 6,
+    "target_hex": "03ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "trial": 2
+  },
+  {
+    "attempts": 3,
+    "expected_attempts": 64.0,
+    "hash": "01632054e8c675623e13adc396eae481268c1a0bcfa986e69191d04ed07c8968",
+    "hashes_per_second": 410962.328580997,
+    "seconds": 7.2999391704797745e-06,
+    "target_bits": 6,
+    "target_hex": "03ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "trial": 3
+  },
+  {
+    "attempts": 41,
+    "expected_attempts": 64.0,
+    "hash": "02c615d4460fd21440b529e613d4b3c9d4acaed92732f6c3d965bc0b09cbf7e0",
+    "hashes_per_second": 447110.7105685442,
+    "seconds": 9.169988334178925e-05,
+    "target_bits": 6,
+    "target_hex": "03ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "trial": 4
+  },
+  {
+    "attempts": 52,
+    "expected_attempts": 64.0,
+    "hash": "034cc8a9390492e01066ed7759b9d109a4722bb2b39f78d76f034841bcdc835b",
+    "hashes_per_second": 456541.5485654012,
+    "seconds": 0.00011389981955289841,
+    "target_bits": 6,
+    "target_hex": "03ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "trial": 5
+  },
+  {
+    "attempts": 61,
+    "expected_attempts": 256.0,
+    "hash": "0002dfc79c0b4b062f872ff8d9fde3834de72f5ad95f3ddb3770e0c385e32246",
+    "hashes_per_second": 406396.10881779005,
+    "seconds": 0.00015009986236691475,
+    "target_bits": 8,
+    "target_hex": "00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "trial": 1
+  },
+  {
+    "attempts": 87,
+    "expected_attempts": 256.0,
+    "hash": "001225d25df65ca5ee8d0d163a6ca1473f13ae0aa4463d2a60e565ec4b18d973",
+    "hashes_per_second": 451010.99066142505,
+    "seconds": 0.00019289995543658733,
+    "target_bits": 8,
+    "target_hex": "00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "trial": 2
+  },
+  {
+    "attempts": 51,
+    "expected_attempts": 256.0,
+    "hash": "00bf9a0375f6ad1f7c982efadce5ab55c25eb5500ba3c1ac5d35e4d992642074",
+    "hashes_per_second": 448943.92405125557,
+    "seconds": 0.00011359993368387222,
+    "target_bits": 8,
+    "target_hex": "00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "trial": 3
+  },
+  {
+    "attempts": 31,
+    "expected_attempts": 256.0,
+    "hash": "001bee8b72714e7229c1528a7ce88647f44ba86ac7ee8378f00d532b101ed5e3",
+    "hashes_per_second": 452555.1441205962,
+    "seconds": 6.849993951618671e-05,
+    "target_bits": 8,
+    "target_hex": "00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "trial": 4
+  },
+  {
+    "attempts": 19,
+    "expected_attempts": 256.0,
+    "hash": "009b699920496b051e1e20d351e861ffaf260f07fcb5a6645bad908239e09564",
+    "hashes_per_second": 422221.1918002421,
+    "seconds": 4.5000109821558e-05,
+    "target_bits": 8,
+    "target_hex": "00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "trial": 5
+  }
+]

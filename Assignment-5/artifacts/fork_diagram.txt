@@ -1,0 +1,5 @@
+Competing branches (each arrow points from parent to child):
+GENESIS 008c28494121 (work 32)
+  |-- Miner A: 02a7eaa30f57 -> 078374fd66a9  (2 blocks, branch work 64) [LOST]
+  `-- Miner B: 0083e954bd92  (1 block, branch work 256) [ACTIVE]
+Reorg: disconnect A2, A1; connect B1. Bob's old output is removed; Alice's new output appears.
