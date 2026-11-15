@@ -1,0 +1,41 @@
+{
+  "chain_id": 31337,
+  "contract_address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "buyer": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+  "seller": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+  "arbiter": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+  "price_wei": 1000000000000000000,
+  "final_state": 6,
+  "final_contract_balance_wei": 0,
+  "final_liabilities_wei": 0,
+  "bytecode_bytes": 3225,
+  "gas_used": {
+    "deployment": 776927,
+    "fund": 67166,
+    "dispute": 27694,
+    "resolve_to_seller": 73004,
+    "withdraw": 36049
+  },
+  "event_topic_hashes": {
+    "deployment": [],
+    "fund": [
+      "0x5af8184bef8e4b45eb9f6ed7734d04da38ced226495548f46e0c8ff8d7d9a524"
+    ],
+    "dispute": [
+      "0x695fbf2fe28b4fde5705122279ffc4160ebfc0f45e4d96f7e6699001be5062ef"
+    ],
+    "resolve_to_seller": [
+      "0xf396531fad1d4dc2cd92386cdea800c92a507f8fe1bdb80313eb32a57481b1dc"
+    ],
+    "withdraw": [
+      "0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65"
+    ]
+  },
+  "receipt_statuses": {
+    "deployment": 1,
+    "fund": 1,
+    "dispute": 1,
+    "resolve_to_seller": 1,
+    "withdraw": 1
+  }
+}

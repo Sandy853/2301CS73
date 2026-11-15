@@ -1,0 +1,13 @@
+stateDiagram-v2
+    [*] --> Created
+    Created --> Funded: buyer fund(exact price)
+    Created --> Cancelled: both approve cancellation
+    Funded --> Released: buyer release
+    Funded --> Disputed: buyer/seller dispute
+    Disputed --> ResolvedToBuyer: arbiter resolves buyer
+    Disputed --> ResolvedToSeller: arbiter resolves seller
+    Cancelled --> [*]
+    Released --> [*]
+    ResolvedToBuyer --> [*]
+    ResolvedToSeller --> [*]
+    note right of Released: seller may withdraw credit

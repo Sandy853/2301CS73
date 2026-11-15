@@ -1,0 +1,16 @@
+No files changed, compilation skipped
+
+Ran 10 tests for test/Escrow.t.sol:EscrowTest
+[PASS] testCreatedCancellation() (gas: 244518)
+[PASS] testDisputeBuyerWins() (gas: 410310)
+[PASS] testDisputeSellerWins() (gas: 400354)
+[PASS] testFundingReleaseWithdrawAndEvents() (gas: 421195)
+[PASS] testFuzzCallerRoles(uint8) (runs: 256, μ: 56299, ~: 41942)
+[PASS] testFuzzDepositAmount(uint96) (runs: 256, μ: 1031029, ~: 1031009)
+[PASS] testFuzzResolutionRole(uint8,bool) (runs: 256, μ: 163182, ~: 151232)
+[PASS] testRejectBadConstructor() (gas: 166607)
+[PASS] testRejectEveryInvalidTransitionAndRole() (gas: 790279)
+[PASS] testSellerFirstCancellation() (gas: 95746)
+Suite result: ok. 10 passed; 0 failed; 0 skipped; finished in 36.51ms (91.96ms CPU time)
+
+Ran 1 test suite in 41.84ms (36.51ms CPU time): 10 tests passed, 0 failed, 0 skipped (10 total tests)

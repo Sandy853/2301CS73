@@ -1,0 +1,1 @@
+# Python standard library only. Install Foundry separately (forge, anvil, cast).
