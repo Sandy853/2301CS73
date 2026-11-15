@@ -1,0 +1,5 @@
+{
+  "exit_code": 0,
+  "stderr": "test_bad_checksum_and_base58 (test_wallet.WalletTests.test_bad_checksum_and_base58) ... ok\ntest_canonical_order_and_whitespace (test_wallet.WalletTests.test_canonical_order_and_whitespace) ... ok\ntest_changed_fields (test_wallet.WalletTests.test_changed_fields) ... ok\ntest_extra_fields_and_bad_integer (test_wallet.WalletTests.test_extra_fields_and_bad_integer) ... ok\ntest_noncanonical_signature (test_wallet.WalletTests.test_noncanonical_signature) ... ok\ntest_replay_nonce (test_wallet.WalletTests.test_replay_nonce) ... ok\ntest_valid_signature (test_wallet.WalletTests.test_valid_signature) ... ok\ntest_wrong_signer (test_wallet.WalletTests.test_wrong_signer) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.016s\n\nOK\n",
+  "stdout": ""
+}

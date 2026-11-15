@@ -1,0 +1,14 @@
+{
+  "algorithm": "Ed25519",
+  "public_key": "03a107bff3ce10be1d70dd18e74bc09967e4d6309ba50d5f1ddc8664125531b8",
+  "signature": "ba36579c5407bced69862ec1b03428dd9665064a047ae4b8fb6fea033a6102d7516604b82f23cfaf662f9d5d1945e914cb0a9b376c4d84375b52c875571f0700",
+  "transaction": {
+    "amount_units": 1250000,
+    "memo_hash": "c79514f4c2b13444cd07de0f98c6095f05e47384f43de47bc8ad7eaeaaa17003",
+    "network_id": "course-testnet",
+    "nonce": 7,
+    "recipient": "mpnkbm9AYtkTkngjJMY9Qrcbe9CQm7z6g9",
+    "sender": "moP9tKeX9jSEBJjXWb15oa92nCcpNoLPV7",
+    "version": 1
+  }
+}

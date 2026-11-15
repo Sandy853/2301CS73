@@ -1,0 +1,6 @@
+{
+  "changed_amount": "REJECTED: invalid signature or modified transaction",
+  "changed_nonce": "REJECTED: invalid signature or modified transaction",
+  "replayed_nonce": "REJECTED: replayed nonce",
+  "wrong_network": "REJECTED: wrong network"
+}

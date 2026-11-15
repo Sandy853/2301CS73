@@ -1,0 +1,21 @@
+Keys, Addresses, and Signed Transactions
+
+Sender: moP9tKeX9jSEBJjXWb15oa92nCcpNoLPV7
+Recipient: mpnkbm9AYtkTkngjJMY9Qrcbe9CQm7z6g9
+Canonical bytes: 544f59545800010e636f757273652d746573746e65746f56475aa75463474c0285df5dbf2bcab73da65135ddd49dae6f65b60673d6ed884bf01c2c222d82ada0740f29aceedde09a00000000001312d00000000000000007c79514f4c2b13444cd07de0f98c6095f05e47384f43de47bc8ad7eaeaaa17003
+Signature: ba36579c5407bced69862ec1b03428dd9665064a047ae4b8fb6fea033a6102d7516604b82f23cfaf662f9d5d1945e914cb0a9b376c4d84375b52c875571f0700
+Verified: true
+
+test_bad_checksum_and_base58 (test_wallet.WalletTests.test_bad_checksum_and_base58) ... ok
+test_canonical_order_and_whitespace (test_wallet.WalletTests.test_canonical_order_and_whitespace) ... ok
+test_changed_fields (test_wallet.WalletTests.test_changed_fields) ... ok
+test_extra_fields_and_bad_integer (test_wallet.WalletTests.test_extra_fields_and_bad_integer) ... ok
+test_noncanonical_signature (test_wallet.WalletTests.test_noncanonical_signature) ... ok
+test_replay_nonce (test_wallet.WalletTests.test_replay_nonce) ... ok
+test_valid_signature (test_wallet.WalletTests.test_valid_signature) ... ok
+test_wrong_signer (test_wallet.WalletTests.test_wrong_signer) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.016s
+
+OK
